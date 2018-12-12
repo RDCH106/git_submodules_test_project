@@ -1,0 +1,3 @@
+[submodule "submodules/linearizator"]
+	path = submodules/linearizator
+	url = https://github.com/RDCH106/linearizator.git
