@@ -2,4 +2,4 @@
 
 Dummy GIT project with other repositories as submodules
 
-Respository used in [:octocat: Parallel Foreach_Submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule)
+Respository used in [:octocat: Parallel Foreach_Submodule (PFS)](https://github.com/stt-systems/parallel_foreach_submodule)
